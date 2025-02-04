@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swaraj-creator&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=false&custom_title=My%20Contributions" height="260" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-Kumar-001&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=false&custom_title=My%20Contributions" height="260" alt="activity-graph graph"  />
 </div>
 
 ###
